@@ -1,0 +1,17 @@
+# ipynb
+.ipynb_checkpoints/
+
+# virtualenv
+.py3/
+
+# mac
+.DS_Store
+
+# Pycharm
+.idea/
+
+# Python3
+__pycache__/
+
+# Python2
+*.pyc
